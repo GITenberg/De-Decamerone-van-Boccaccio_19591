@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1279
     wikipedia: http://en.wikipedia.org/wiki/Giovanni_Boccaccio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19591#De-Decamerone-van-Boccaccio
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Erotic Fiction
