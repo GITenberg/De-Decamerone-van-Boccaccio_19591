@@ -1,0 +1,41 @@
+_repo: De-Decamerone-van-Boccaccio_19591
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Rensburg, Jacques Karel
+    birthdate: 1870
+    deathdate: 1943
+    gutenberg_agent_id: '8769'
+    url: http://www.gutenberg.org/2009/agents/8769
+    wikipedia: http://www.jhm.nl/personen.aspx?naam=Rensburg,%20Jacques%20Karel
+covers:
+- cover_type: archival
+  image_path: 19591-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boccaccio, Giovanni
+    birthdate: 1313
+    deathdate: 1375
+    gutenberg_agent_id: '1279'
+    url: http://www.gutenberg.org/2009/agents/1279
+    wikipedia: http://en.wikipedia.org/wiki/Giovanni_Boccaccio
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Erotic Fiction
+gutenberg_issued: '2006-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19591'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plague -- Europe -- History -- Fiction'
+- !lcsh 'Allegories'
+- !lcsh 'Frame-stories'
+- !lcsh 'Storytelling -- Fiction'
+- !lcc 'PQ'
+title: De Decamerone van Boccaccio
+url: http://www.gutenberg.org/ebooks/19591
